@@ -1,1 +1,1 @@
-var addressBook = angular.module('AddressBook', [ngResource']);
+var addressBook = angular.module('AddressBook', ['ngResource']);
