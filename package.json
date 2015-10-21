@@ -1,0 +1,19 @@
+{
+  "name": "alliants_project",
+  "version": "1.0.0",
+  "description": "A one page app, made using AngularJS in order to view, create, and delete contacts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivanpatel/alliants_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivanpatel/alliants_project/issues"
+  },
+  "homepage": "https://github.com/sivanpatel/alliants_project#readme"
+}
